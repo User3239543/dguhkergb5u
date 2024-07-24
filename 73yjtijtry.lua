@@ -1,7 +1,7 @@
 -- Pepsi Was Here
 -- Pepsi's Name Spoofer
 -- Settings
-local new_name = "DevHaz18" -- I'm not Pepsi. ^_^
+local new_name = "Emorea_is_THE_fucking_BEST" -- I'm not Pepsi. ^_^
 local new_id = 104867 -- I'm not 26346. ^_^
 local clear_avatar = true -- So no one can reverse search by your outfit
 local flush_body_colors = true -- So no one can reverse search by your bodycolors
